@@ -1,0 +1,35 @@
+_repo: O-doido-e-a-morte_24291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pascoais, Teixeira de
+    aliases:
+    - Vasconcellos, Joaquim Pereira Teixeira de
+    - Pascoaes, Teixeira de
+    - Vasconcelos, Joaquim Pereira Teixeira de
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '25460'
+    url: http://www.gutenberg.org/2009/agents/25460
+    wikipedia: http://pt.wikipedia.org/wiki/Teixeira_de_Pascoaes
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24291'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Porto:\r\nEdição da Renascença Portuguesa\r\n1913"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: O doido e a morte
+url: http://www.gutenberg.org/ebooks/24291
